@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html><body><head>
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>  
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+
+<style>
+#more {display: none;}
+<!--.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #d8416f;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+  width: 70px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+td {
+	word-wrap: break-word;
+	border: 1px solid; 
+    /* border-collapse: collapse; */
+	border-color: black;
+	font-family: 'Consolas';
+	text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {background-color: #ffe6f7;}
+
+	a {
+		color: #660033;
+	}  -->
+
+<!-- style="border:solid;font-family:centuma;" in <table> tag-->
+
+</style>
+<script type="text/javascript">  
+    $(document).ready(function () {  
+	debugger;
+	
+	var table = $('#annotationTable').DataTable();
+
+	
+            $('button.parent')  
+                .css("cursor", "pointer")  
+                .attr("title", "Click to expand/collapse")  
+                .click(function () {  
+					debugger;
+                    //$(this).siblings('.child-' + this.id).toggle();
+						//$(this).children('.child-1').toggle();
+						$(this).siblings('.child-1').toggle();
+                });  
+            $('div[class^=child-]').hide().children('div'); 
+			
+			//change select show XY  functions
+				$('select').on('change', function() {
+
+				var val = this.value;
+				table.rows().every( function ( rowIdx, tableLoop, rowLoop ) {
+					var data = this.data();
+					//data[9]
+					debugger;
+				} );
+				$("td > a");
+				$("td:has(a)").each( function (i, value) {
+					debugger;
+					<!-- $(this:gt(val)).style.display="none"; -->
+				
+				});
+					<!-- $("#myBtn").trigger("click"); -->
+				<!-- $("td:has(a):gt(val)").style.display="none"; -->
+				});
+    
+    });
+
+
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+
+function showXYentries() {
+	$('select').on('change', function() {
+		debugger;
+		$("#myBtn").trigger("click");
+	});
+
+}
+
+	
+    </script>  
+<link rel="stylesheet" href="cssForOutput.css">
+
+</head>
+<div id="showXYfunctions">Show  <select><option value="1">1</option><option value="3">3</option></select>functions</div>
+
+<div class="dataTables_length"></div>
+<table id="annotationTable" class="display" ><thead><tr><th>Chr</th><th>Start</th><th>End</th><th>Ref</th><th>Alt</th><th>Func.refGene</th><th>Gene.refGene</th><th>GeneDetail.refGene</th><th>ExonicFunc.refGene</th><th>GO functions</th><th>HPO functions</th></tr></thead><tbody><tr><td>1</td><td>877831</td><td>877831</td><td>T</td><td>C</td><td>exonic</td><td>SAMD11</td><td>.</td><td>nonsynonymous SNV</td><td><a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634" target="_blank">Sterile alpha motif domain-containing protein 11 (GO:0005634)<br /></a> </td><td></td></tr><tr><td>1</td><td>881627</td><td>881627</td><td>G</td><td>A</td><td>exonic</td><td>NOC2L</td><td>.</td><td>synonymous SNV</td>
+<td class="parent" id="td1"><a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0000122" target="_blank">Nucleolar complex protein 2 homolog (GO:0000122)	<br /></a>
+<a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0000122" target="_blank">Nucleolar complex protein 2 homolog (GO:0000122)<br /></a>
+<a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0002903" target="_blank">Nucleolar complex protein 2 homolog (GO:0002903)<br /></a>
+<a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003682" target="_blank">Nucleolar complex protein 2 homolog (GO:0003682)<br /></a>
+<a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003682" target="_blank">Nucleolar complex protein 2 homolog (GO:0003682)<br /></a> 
+<span id="dots">...</span>
+
+<span id="more">
+<a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003714">Nucleolar complex protein 2 homolog (GO:0003714)	<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003723">		GO:0003723	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003723">		GO:0003723	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634 Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	PMID:20123734	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	Reactome:R-HSA-3222128	TAS		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	Reactome:R-HSA-6805122	TAS		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	Reactome:R-HSA-6805126	TAS		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005730">		GO:0005730	GO_REF:0000052	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005730">		GO:0005730	PMID:20123734	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005829">		GO:0005829	GO_REF:0000052	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0006915">		GO:0006915	GO_REF:0000037	IEA	UniProtKB-KW:KW-0053	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0031491">		GO:0031491	PMID:16322561	IDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0031497">		GO:0031497	PMID:16322561	IDA		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0034644">		GO:0034644	PMID:20959462	IDA		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0035067">		GO:0035067	PMID:16322561	IDA		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0042393">		GO:0042393	PMID:16322561	IDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0070491">		GO:0070491	PMID:16322561	IDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:1901796">		GO:1901796	Reactome:R-HSA-5633007	TAS		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:2001243">		GO:2001243	PMID:16322561	IMP		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0035067">		GO:0035067	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0000122">		GO:0000122	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003714">		GO:0003714	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0070491">		GO:0070491	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	PMID:21873635	IBA	PANTHER:PTN000293925|UniProtKB:Q9Y3T9	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005730">		GO:0005730	PMID:21873635	IBA	PANTHER:PTN000293925|UniProtKB:Q59M49|UniProtKB:Q9Y3T9	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0030690">		GO:0030690	PMID:21873635	IBA	PANTHER:PTN000293925|SGD:S000005732	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0030691">		GO:0030691	PMID:21873635	IBA	PANTHER:PTN000293925|SGD:S000005732	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0042273">		GO:0042273	PMID:21873635	IBA	PANTHER:PTN000293925|SGD:S000005732	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0042393">		GO:0042393	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	F	Nucleolar complex protein 2 homolog<br /></a>
+</span>
+
+<!-- <button class="parent" style="color:#660033" id="1">. . . </button> -->
+<!-- <div class="child-1" style="display: none;"><a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003714">Nucleolar complex protein 2 homolog (GO:0003714	PMID:16322561	IDA		F)	<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003723">		GO:0003723	PMID:22658674	HDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003723">		GO:0003723	PMID:22681889	HDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	PMID:16322561	IPI	UniProtKB:P04637	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	PMID:16322561	IPI	UniProtKB:P04637	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	PMID:20123734	IPI	UniProtKB:P04637	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	PMID:20123734	IPI	UniProtKB:Q9H3D4-5	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	PMID:20959462	IPI	UniProtKB:P04637	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	PMID:20959462	IPI	UniProtKB:Q96GD4	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005515">		GO:0005515	PMID:21078624	IPI	UniProtKB:O15265	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634	GO_REF:0000052	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634	GO_REF:0000054	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634	PMID:16322561	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005634">		GO:0005634	PMID:20959462	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	PMID:20123734	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	Reactome:R-HSA-3222128	TAS		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	Reactome:R-HSA-6805122	TAS		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	Reactome:R-HSA-6805126	TAS		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005730">		GO:0005730	GO_REF:0000052	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005730">		GO:0005730	PMID:20123734	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005829">		GO:0005829	GO_REF:0000052	IDA		C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0006915">		GO:0006915	GO_REF:0000037	IEA	UniProtKB-KW:KW-0053	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0031491">		GO:0031491	PMID:16322561	IDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0031497">		GO:0031497	PMID:16322561	IDA		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0034644">		GO:0034644	PMID:20959462	IDA		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0035067">		GO:0035067	PMID:16322561	IDA		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0042393">		GO:0042393	PMID:16322561	IDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0070491">		GO:0070491	PMID:16322561	IDA		F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:1901796">		GO:1901796	Reactome:R-HSA-5633007	TAS		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:2001243">		GO:2001243	PMID:16322561	IMP		P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0035067">		GO:0035067	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0000122">		GO:0000122	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0003714">		GO:0003714	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0070491">		GO:0070491	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	F	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005654">		GO:0005654	PMID:21873635	IBA	PANTHER:PTN000293925|UniProtKB:Q9Y3T9	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0005730">		GO:0005730	PMID:21873635	IBA	PANTHER:PTN000293925|UniProtKB:Q59M49|UniProtKB:Q9Y3T9	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0030690">		GO:0030690	PMID:21873635	IBA	PANTHER:PTN000293925|SGD:S000005732	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0030691">		GO:0030691	PMID:21873635	IBA	PANTHER:PTN000293925|SGD:S000005732	C	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0042273">		GO:0042273	PMID:21873635	IBA	PANTHER:PTN000293925|SGD:S000005732	P	Nucleolar complex protein 2 homolog<br /></a> <a href = "https://www.ebi.ac.uk/QuickGO/term/GO:0042393">		GO:0042393	PMID:21873635	IBA	PANTHER:PTN000976013|UniProtKB:Q9Y3T9	F	Nucleolar complex protein 2 homolog<br /></a> -->
+
+<!-- </div> -->
+<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
+
+
+</td><td></td></tr></tbody>
+<tfoot><tr><th>Chr</th><th>Start</th><th>End</th><th>Ref</th><th>Alt</th><th>Func.refGene</th><th>Gene.refGene</th><th>GeneDetail.refGene</th><th>ExonicFunc.refGene</th><th>GO functions</th><th>HPO functions</th></tr></tfoot></table>
+</body>
+</html>
