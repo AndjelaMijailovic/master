@@ -1,0 +1,284 @@
+yourlist:M20200504A94466D2655679D1FD8953E075198DA89B94A1F	Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+ZNF436-AS1	Q8NC38	CA213_HUMAN	reviewed	Putative uncharacterized protein ZNF436-AS1 (ZNF436 antisense RNA 1) (ZNF436 antisense gene protein 1)	ZNF436-AS1 C1orf213	Homo sapiens (Human)	126
+SNHG12	Q9BXW3	SNH12_HUMAN	reviewed	Putative uncharacterized protein SNHG12 (Transformation-related gene 11 protein) (TRG-11)	SNHG12 C1orf79 PNAS-123 TRG11	Homo sapiens (Human)	62
+SSBP3-AS1	Q7Z2R9	SSAS1_HUMAN	reviewed	Putative uncharacterized protein SSBP3-AS1 (SSBP3 antisense RNA 1) (SSBP3 antisense gene protein 1)	SSBP3-AS1 C1orf191 MSTP128	Homo sapiens (Human)	100
+MROH7-TTC4	A0A0A0MT08	A0A0A0MT08_HUMAN	unreviewed	MROH7-TTC4 readthrough (NMD candidate)	MROH7-TTC4	Homo sapiens (Human)	1334
+MROH7-TTC4	F8WC02	F8WC02_HUMAN	unreviewed	MROH7-TTC4 readthrough (NMD candidate)	MROH7-TTC4	Homo sapiens (Human)	652
+HSD52	Q0P140	YA037_HUMAN	reviewed	Putative uncharacterized protein HSD52	HSD52	Homo sapiens (Human)	79
+LINC01555	Q8NAE3	CA180_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01555	LINC01555 C1orf180	Homo sapiens (Human)	123
+RUSC1-AS1	Q66K80	RUAS1_HUMAN	reviewed	Putative uncharacterized protein RUSC1-AS1 (RUSC1 antisense RNA 1) (RUSC1 antisense gene protein 1)	RUSC1-AS1 C1orf104	Homo sapiens (Human)	236
+SNHG28	P0DPA3	SNH28_HUMAN	reviewed	Putative uncharacterized protein SNHG28 (Small nucleolar RNA host gene 2) (VSIG8 overlapping transcript protein) (VSIG8-OT1)	SNHG28 C1orf204	Homo sapiens (Human)	235
+ANKRD36BP1	Q96IX9	A26L1_HUMAN	reviewed	Putative ankyrin repeat domain-containing protein 26-like 1 (Ankyrin repeat domain-containing protein 36B pseudogene 1)	ANKRD36BP1 ANKRD26L1	Homo sapiens (Human)	119
+FMO6P	O60774	FMO6_HUMAN	reviewed	Putative dimethylaniline monooxygenase [N-oxide-forming] 6 (EC 1.14.13.8) (Dimethylaniline oxidase 6) (Flavin-containing monooxygenase 6) (FMO 6)	FMO6P FMO6	Homo sapiens (Human)	539
+C1orf220	Q5T0J3	CA220_HUMAN	reviewed	Putative uncharacterized protein C1orf220	C1orf220	Homo sapiens (Human)	134
+LINC00862	A6NCI5	SIM16_HUMAN	reviewed	Putative transmembrane protein encoded by LINC00862 (Small integral membrane protein 16)	LINC00862 C1orf98 SMIM16	Homo sapiens (Human)	91
+LINC00303	Q3SY05	CA157_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00303	LINC00303 C1orf157 NCRNA00303	Homo sapiens (Human)	128
+BLACAT1	A0A494BZU2	A0A494BZU2_HUMAN	unreviewed	Bladder cancer-associated transcript 1	BLACAT1	Homo sapiens (Human)	33
+C1orf140	Q5VVS0	CA140_HUMAN	reviewed	Putative uncharacterized protein C1orf140	C1orf140	Homo sapiens (Human)	124
+IBA57-AS1	B1ANH7	IBADT_HUMAN	reviewed	Putative uncharacterized protein IBA57-DT (IBA57 antisense RNA 1) (IBA57 antisense gene protein 1) (IBA57 divergent transcripte)	IBA57-DT C1orf148 IBA57-AS1	Homo sapiens (Human)	110
+OBSCN-AS1	Q96MR7	OBAS1_HUMAN	reviewed	Putative uncharacterized protein OBSCN-AS1 (OBSCN antisense RNA 1) (OBSCN antisense gene protein 1)	OBSCN-AS1 C1orf145	Homo sapiens (Human)	158
+TSNAX-DISC1	C4P0D4	C4P0D4_HUMAN	unreviewed	Disrupted in schizophrenia 1 isoform 47 (Disrupted in schizophrenia 1 isoform 48) (Disrupted in schizophrenia 1 isoform 53) (TSNAX-DISC1 readthrough (NMD candidate))	TSNAX-DISC1 DISC1	Homo sapiens (Human)	138
+TSNAX-DISC1	C4P0D6	C4P0D6_HUMAN	unreviewed	Disrupted in schizophrenia 1 isoform 49 (Disrupted in schizophrenia 1 isoform 50) (Disrupted in schizophrenia 1 isoform 54) (TSNAX-DISC1 readthrough (NMD candidate))	TSNAX-DISC1 DISC1	Homo sapiens (Human)	186
+TSNAX-DISC1	C4P0D8	C4P0D8_HUMAN	unreviewed	Disrupted in schizophrenia 1 isoform 51 (TSNAX-DISC1 readthrough (NMD candidate))	TSNAX-DISC1 DISC1	Homo sapiens (Human)	188
+TSNAX-DISC1	Q9NRI2	Q9NRI2_HUMAN	unreviewed	Disrupted in schizophrenia 1 isoform 52 (TSNAX-DISC1 readthrough (NMD candidate)) (Translin associated factor X) (Fragment)	TSNAX-DISC1 DISC1 TRAX	Homo sapiens (Human)	40
+ZNF670-ZNF695	E7EVQ0	E7EVQ0_HUMAN	unreviewed	ZNF670-ZNF695 readthrough (NMD candidate)	ZNF670-ZNF695	Homo sapiens (Human)	118
+ZNF670-ZNF695	F2Z2N8	F2Z2N8_HUMAN	unreviewed	ZNF670-ZNF695 readthrough (NMD candidate)	ZNF670-ZNF695	Homo sapiens (Human)	137
+LINC00299	Q6ZSB3	CB046_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00299	LINC00299 C2orf46 NCRNA00299	Homo sapiens (Human)	139
+PRORSD1P	A6NEY8	PRXD1_HUMAN	reviewed	Putative prolyl-tRNA synthetase associated domain-containing protein 1 (PrdX deacylase domain-containing protein 1) (Prolyl-tRNA synthetase associated domain-containing protein 1 pseudogene)	PRORSD1P NCRNA00117 PRDXDD1P	Homo sapiens (Human)	169
+LINC00116	Q8NCU8	MTLN_HUMAN	reviewed	Mitoregulin (Small integral membrane protein 37)	MTLN LINC00116 NCRNA00116 SMIM37	Homo sapiens (Human)	56
+TUBA4B	Q9H853	TBA4B_HUMAN	reviewed	Putative tubulin-like protein alpha-4B (Alpha-tubulin 4B)	TUBA4B TUBA4	Homo sapiens (Human)	241
+LINC00471	Q8N535	CB052_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00471	LINC00471 C2orf52	Homo sapiens (Human)	108
+MSL3P1	P0C860	MS3L2_HUMAN	reviewed	Putative male-specific lethal-3 protein-like 2 (MSL3-like 2) (Male-specific lethal-3 homolog 2) (Male-specific lethal-3 homolog pseudogene 1)	MSL3P1 MSL3L2	Homo sapiens (Human)	447
+MGC16025	Q53SB4	Q53SB4_HUMAN	unreviewed	Uncharacterized protein MGC16025 (Fragment)	MGC16025	Homo sapiens (Human)	31
+MGC16025	Q53SM2	Q53SM2_HUMAN	unreviewed	Uncharacterized protein MGC16025 (Fragment)	MGC16025	Homo sapiens (Human)	1052
+PP14571	Q8WYV6	Q8WYV6_HUMAN	unreviewed	Uncharacterized protein pp14571	pp14571	Homo sapiens (Human)	121
+LINC00312	Q9Y6C7	L3R2A_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00312 (Loss of heterozygosity 3 chromosomal region 2 gene A protein)	LINC00312 LOH3CR2A NCRNA00312 NAG7	Homo sapiens (Human)	94
+TPRXL	Q17RH7	TPRXL_HUMAN	reviewed	Putative protein TPRXL	TPRXL	Homo sapiens (Human)	258
+PRSS46	E5RG02	PRS46_HUMAN	reviewed	Putative serine protease 46 (EC 3.4.21.-) (Serine protease 46 pseudogene)	PRSS46P PRSS46	Homo sapiens (Human)	174
+ESRG	Q1W209	ESRG_HUMAN	reviewed	Embryonic stem cell-related gene protein (hES cell-related gene protein)	ESRG HESRG	Homo sapiens (Human)	222
+ERC2-IT1	O76042	ERIT1_HUMAN	reviewed	Putative uncharacterized protein encoded by ERC2-IT1 (ERC2 intronic transcript protein 1) (PO42)	ERC2-IT1 C1orf1 C3orf51	Homo sapiens (Human)	136
+FAM172BP	A6NC97	F172B_HUMAN	reviewed	Putative protein FAM172B (FAM172B pseudogene)	FAM172BP FAM172B	Homo sapiens (Human)	362
+LINC01565	O15544	GR6_HUMAN	reviewed	Protein GR6	LINC01565 C3orf27 GR6	Homo sapiens (Human)	149
+H1FX-AS1	Q4G0G2	H1AS1_HUMAN	reviewed	Putative uncharacterized protein H1FX-AS1 (H1FX antisense RNA 1)	H1FX-AS1 C3orf47	Homo sapiens (Human)	97
+BPESC1	Q9GZL8	BPEC1_HUMAN	reviewed	Putative BPES syndrome breakpoint region protein (BPES candidate 1)	BPESC1	Homo sapiens (Human)	116
+LOC646903	Q96EG4	Q96EG4_HUMAN	unreviewed	LOC646903 protein (Fragment)	LOC646903	Homo sapiens (Human)	153
+EGFEM1P	Q0D2K5	EGFEM_HUMAN	reviewed	Putative EGF-like and EMI domain-containing protein 1	EGFEM1P C3orf50 NCRNA00259	Homo sapiens (Human)	195
+SYT14P1	Q58G82	SY14L_HUMAN	reviewed	Putative synaptotagmin-14-like protein (Synaptotagmin XIV protein pseudogene 1) (Synaptotagmin XIV-derived protein) (Synaptotagmin XIV-like protein)	SYT14P1 SYT14L SYT14LP1 SYTDEP	Homo sapiens (Human)	188
+PP12613	Q8WYX1	Q8WYX1_HUMAN	unreviewed	Uncharacterized protein pp12613	pp12613	Homo sapiens (Human)	99
+WWC2-AS2	Q96NR7	WWAS2_HUMAN	reviewed	Putative uncharacterized protein WWC2-AS2 (WWC2 antisense RNA 2) (WWC2 antisense gene protein 2)	WWC2-AS2 C4orf38	Homo sapiens (Human)	200
+EXOC3-AS1	Q8N2X6	EXAS1_HUMAN	reviewed	Uncharacterized protein EXOC3-AS1 (EXOC3 antisense RNA 1) (EXOC3 antisense gene protein 1)	EXOC3-AS1 C5orf55	Homo sapiens (Human)	119
+LINC02218	A0A1W2PRN6	A0A1W2PRN6_HUMAN	unreviewed	HCG1807616 (Long intergenic non-protein coding RNA 2218)	LINC02218 hCG_1807616	Homo sapiens (Human)	198
+GUSBP1	Q15486	GUSP1_HUMAN	reviewed	Putative inactive beta-glucuronidase-like protein SMA3	GUSBP1 SMA3	Homo sapiens (Human)	140
+C5orf17	Q8NAS9	CE017_HUMAN	reviewed	Putative uncharacterized protein C5orf17	C5orf17	Homo sapiens (Human)	161
+LOC648987	Q8N4J7	Q8N4J7_HUMAN	unreviewed	LOC648987 protein (Fragment)	LOC648987	Homo sapiens (Human)	145
+LINC01554	Q52M75	CE027_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01554 (Protein FIS)	LINC01554 C5orf27	Homo sapiens (Human)	96
+PCDHB18P	Q96TA0	PCDBI_HUMAN	reviewed	Putative protocadherin beta-18 (PCDH-beta-18) (PCDH-psi2)	PCDHB18P PCDHB18	Homo sapiens (Human)	734
+GMCL1P1	Q8NEA9	GMCL2_HUMAN	reviewed	Germ cell-less protein-like 2 (Germ cell-less protein-like 1-like)	GMCL2 GCL GMCL1L GMCL1P1	Homo sapiens (Human)	526
+LINC01600	Q96MT4	CF195_HUMAN	reviewed	Uncharacterized protein encoded by LINC01600	LINC01600 C6orf195	Homo sapiens (Human)	127
+EEF1E1-BLOC1S5	C9J1V9	C9J1V9_HUMAN	unreviewed	EEF1E1-BLOC1S5 readthrough (NMD candidate) (HCG2043275)	EEF1E1-BLOC1S5 hCG_2043275	Homo sapiens (Human)	151
+LINC00518	Q8N0U6	CF218_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00518	LINC00518 C6orf218	Homo sapiens (Human)	118
+CMAHP	Q9Y471	CMAH_HUMAN	reviewed	Inactive cytidine monophosphate-N-acetylneuraminic acid hydroxylase (CMP-NeuAc hydroxylase-like protein) (Cytidine monophosphate-N-acetylneuraminic acid hydroxylase pseudogene)	CMAHP CMAH	Homo sapiens (Human)	501
+LINC00336	Q6ZUF6	NC336_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00336	LINC00336 C6orf227 NCRNA00336	Homo sapiens (Human)	198
+TDRG1	Q3Y452	TDRG1_HUMAN	reviewed	Testis development-related protein 1	TDRG1	Homo sapiens (Human)	100
+LINC00472	Q9H8W2	CF155_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00472	LINC00472 C6orf155	Homo sapiens (Human)	130
+LINC01590	Q5TEZ4	CF164_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01590 (Long intergenic non-protein coding RNA 1590)	LINC01590 C6orf164	Homo sapiens (Human)	76
+BVES-AS1	Q5T3Y7	BVAS1_HUMAN	reviewed	Putative uncharacterized protein BVES-AS1 (BVES antisense RNA 1) (BVES antisense gene protein 1)	BVES-AS1 C6orf112	Homo sapiens (Human)	98
+LINC00271	P0C7V0	CF217_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00271	LINC00271 C6orf217 NCRNA00271	Homo sapiens (Human)	271
+NHEG1	C3RW64	C3RW64_HUMAN	unreviewed	Neuroblastoma highly expressed protein 1	NHEG1	Homo sapiens (Human)	71
+LOC645967	F1T0L1	F1T0L1_HUMAN	unreviewed	Hypothetical LOC645967	LOC645967	Homo sapiens (Human)	182
+AGPAT4-IT1	Q9H0P7	AGIT1_HUMAN	reviewed	Putative uncharacterized protein encoded by AGPAT4-IT1 (AGPAT4 intronic transcript 1)	AGPAT4-IT1 C6orf59 NCRNA00241	Homo sapiens (Human)	198
+LINC00473	A8K010	CF176_HUMAN	reviewed	Putative transcriptional regulator encoded by LINC00473	LINC00473 C6orf176	Homo sapiens (Human)	186
+LINC01558	Q9Y6Z2	CF123_HUMAN	reviewed	Uncharacterized protein encoded by LINC01558 (Protein HGC6.2)	LINC01558 C6orf123	Homo sapiens (Human)	57
+AFDN-AS1	Q9Y6Z5	AFDDT_HUMAN	reviewed	Putative uncharacterized protein AFDN-DT (AFDN divergent transcript) (Protein HGC6.4)	AFDN-DT AFDN-AS1 C6orf124	Homo sapiens (Human)	254
+PSMG3-AS1	Q96PY0	K1908_HUMAN	reviewed	Putative uncharacterized protein PSMG3-AS1 (PSMG3 antisense RNA 1)	PSMG3-AS1 KIAA1908	Homo sapiens (Human)	264
+RBAKDN	A6NC62	RAKDN_HUMAN	reviewed	Putative RBAK downstream neighbor protein	RBAKDN	Homo sapiens (Human)	111
+LOC541472	Q8N6X1	Q8N6X1_HUMAN	unreviewed	LOC541472 protein	LOC541472	Homo sapiens (Human)	51
+KIAA0087	Q14695	K0087_HUMAN	reviewed	Uncharacterized protein KIAA0087	KIAA0087 HA1002	Homo sapiens (Human)	138
+DKFZP586I1420	A0A090N8G2	A0A090N8G2_HUMAN	unreviewed	Prot_ATP_ID_OB domain-containing protein	DKFZp586I1420 tcag7.670	Homo sapiens (Human)	132
+LOC401320	A0A090N8Y7	A0A090N8Y7_HUMAN	unreviewed	Hypothetical gene supported by BC016976	LOC401320 tcag7.905	Homo sapiens (Human)	106
+LOC401324	A4D1Y7	A4D1Y7_HUMAN	unreviewed	Hypothetical gene supported by AL832092	LOC401324 tcag7.952	Homo sapiens (Human)	142
+FAM183BP	Q6ZVS7	F183B_HUMAN	reviewed	Protein FAM183BP (Testis highly expressed protein 6)	FAM183BP FAM183B THEG6	Homo sapiens (Human)	135
+SND1-IT1	Q9HBX3	SNIT1_HUMAN	reviewed	Uncharacterized protein encoded by SND1-IT1 (Brain and nasopharyngeal carcinoma susceptibility protein NSG-x) (Nasopharyngeal carcinoma-associated gene 8 protein) (SND1 intronic transcript 1)	SND1-IT1 C7orf54 NAG8	Homo sapiens (Human)	110
+MGC27345	Q8TAC0	Q8TAC0_HUMAN	unreviewed	HCG1816833 (MGC27345 protein)	MGC27345 hCG_1816833	Homo sapiens (Human)	95
+MOXD2P	A6NHM9	MOXD2_HUMAN	reviewed	Putative DBH-like monooxygenase protein 2 (EC 1.14.17.-) (DBH-like monooxygenase protein 2 pseudogene)	MOXD2P MOXD2	Homo sapiens (Human)	499
+LOC155060	D3DWG5	D3DWG5_HUMAN	unreviewed	KRAB domain-containing protein	LOC155060 hCG_1640448	Homo sapiens (Human)	233
+BLACE	A4D250	BLACE_HUMAN	reviewed	B-cell acute lymphoblastic leukemia-expressed protein	BLACE	Homo sapiens (Human)	179
+LOC285889	A4D240	A4D240_HUMAN	unreviewed	Uncharacterized protein LOC285889	LOC285889 tcag7.571	Homo sapiens (Human)	116
+LINC01006,C7orf13	Q8NI28	CG013_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01006 (Long intergenic non-protein coding RNA 1006)	LINC01006 C7orf13 MY040	Homo sapiens (Human)	216
+C7orf13	Q9H3I6	Q9H3I6_HUMAN	unreviewed	Brain my040 protein (Chromosome 7 open reading frame 13)	C7orf13 tcag7.556	Homo sapiens (Human)	88
+FAM87A	P0C7U9	FA87A_HUMAN	reviewed	Protein FAM87A	FAM87A	Homo sapiens (Human)	286
+TDH	Q8IZJ6	TDH_HUMAN	reviewed	Inactive L-threonine 3-dehydrogenase, mitochondrial (Short chain dehydrogenase/reductase family 14E member 1 pseudogene)	TDH SDR14E1P	Homo sapiens (Human)	230
+LINC00208	Q96KT6	CH014_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00208	LINC00208 C8orf14 NCRNA00208	Homo sapiens (Human)	92
+C8orf49	A2RUK8	A2RUK8_HUMAN	unreviewed	C8orf49 protein (Chromosome 8 open reading frame 49)	C8orf49 hCG_1990689	Homo sapiens (Human)	230
+C8orf49	Q96NF6	CH049_HUMAN	reviewed	Putative uncharacterized protein C8orf49	C8orf49	Homo sapiens (Human)	230
+ADAM5	Q6NVV9	ADAM5_HUMAN	reviewed	Putative disintegrin and metalloproteinase domain-containing protein 5 (Putative transmembrane metalloproteinase-like, disintegrin-like, and cysteine-rich protein II) (tMDC II)	ADAM5 ADAM5P TMDC2	Homo sapiens (Human)	412
+RBM12B-AS1	Q9P1G2	RBAS1_HUMAN	reviewed	Putative uncharacterized protein encoded by RBM12B-AS1 (RBM12B antisense RNA 1) (RBM12B antisense gene protein 1)	RBM12B-AS1 C8orf39 PRO1905	Homo sapiens (Human)	102
+FER1L6-AS2	Q96M78	FEAS2_HUMAN	reviewed	Putative uncharacterized protein encoded by FER1L6-AS2 (FER1L6 antisense RNA 2) (FER1L6 antisense gene protein 2)	FER1L6-AS2 C8orf78	Homo sapiens (Human)	137
+TMEM75	Q8N9X5	TMM75_HUMAN	reviewed	Putative transmembrane protein 75	TMEM75	Homo sapiens (Human)	138
+CCDC26	A0A024R9H7	A0A024R9H7_HUMAN	unreviewed	Coiled-coil domain containing 26, isoform CRA_a	CCDC26 hCG_1814492	Homo sapiens (Human)	109
+CCDC26	Q8TAB7	CCD26_HUMAN	reviewed	Putative coiled-coil domain-containing protein 26 (Retinoic acid modulator)	CCDC26 RAM	Homo sapiens (Human)	109
+RHPN1-AS1	Q9BWJ2	RHAS1_HUMAN	reviewed	Putative uncharacterized protein encoded by RHPN1-AS1 (RHPN1 antisense RNA 1) (RHPN1 antisense gene protein 1)	RHPN1-AS1 C8orf51	Homo sapiens (Human)	59
+ZNF252P-AS1	Q0IIN9	ZNFS1_HUMAN	reviewed	Putative uncharacterized protein ZNF252P-AS1 (ZNF252P antisense RNA 1) (ZNF252P antisense gene protein 1)	ZNF252P-AS1 C8orf77	Homo sapiens (Human)	211
+LINC00032	P0C843	CI014_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00032	LINC00032 C9orf14 NCRNA00032	Homo sapiens (Human)	101
+ANXA2P2	A6NMY6	AXA2L_HUMAN	reviewed	Putative annexin A2-like protein (Annexin A2 pseudogene 2) (Lipocortin II pseudogene)	ANXA2P2 ANX2L2 ANX2P2 LPC2B	Homo sapiens (Human)	339
+FAM205BP	Q63HN1	F205B_HUMAN	reviewed	Putative protein FAM205B	FAM205BP C9orf144 C9orf144A FAM205B	Homo sapiens (Human)	556
+CTSL3P	Q5NE16	CATL3_HUMAN	reviewed	Putative inactive cathepsin L-like protein CTSL3P (Cathepsin L3 pseudogene) (HCTSL-s)	CTSL3P CTSL3	Homo sapiens (Human)	218
+LINC00476	Q8WZB0	CI130_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00476 (Nasopharyngeal carcinoma-associated gene 12 protein)	LINC00476 C9orf130 NAG12	Homo sapiens (Human)	136
+LINC00587	B1AMM8	CI107_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00587	LINC00587 C9orf107	Homo sapiens (Human)	73
+LINC00474	Q9P2X8	CI027_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00474 (Protein EST-YD1)	LINC00474 C9orf27	Homo sapiens (Human)	69
+PAPPA-AS1	Q5QFB9	PAPAS_HUMAN	reviewed	Protein PAPPAS (DIPLA1 antisense RNA 1) (DIPLA1 antisense gene protein 1) (DIPLA1-antisense expressed) (PAPPAS antisense RNA 1) (PAPPAS antisense gene protein 1) (PAPPAS-antisense expressed)	PAPPA-AS1 DIPAS PAPPAS	Homo sapiens (Human)	102
+GSN-AS1	Q9NRJ2	GSAS1_HUMAN	reviewed	Putative uncharacterized protein GSN-AS1 (GSN antisense RNA 1) (GSN antisense gene protein 1) (Protein MOST-2)	GSN-AS1 C9orf31 MOST2	Homo sapiens (Human)	163
+GGTA1P	Q4G0N0	GGTA1_HUMAN	reviewed	Inactive N-acetyllactosaminide alpha-1,3-galactosyltransferase (Glycoprotein alpha-galactosyltransferase 1 pseudogene)	GGTA1P GGTA1	Homo sapiens (Human)	100
+LINC00094	A0A1B0GUI7	BRDOS_HUMAN	reviewed	Putative uncharacterized protein BRD3OS (BRD3 opposite strand protein) (Long intergenic non-protein coding RNA 94) (Non-protein coding RNA 94)	BRD3OS LINC00094 NCRNA00094	Homo sapiens (Human)	84
+PRR26	Q5VXK3	Q5VXK3_HUMAN	unreviewed	Chromosome 10 open reading frame 108, isoform CRA_a (Proline-rich protein 26)	PRR26 C10orf108 hCG_2042946	Homo sapiens (Human)	198
+PRR26	Q8N8Z3	PRR26_HUMAN	reviewed	Proline-rich protein 26	PRR26 C10orf108	Homo sapiens (Human)	221
+IDI2-AS1	Q9NZ38	IDAS1_HUMAN	reviewed	Uncharacterized protein IDI2-AS1 (IDI2 antisense RNA 1) (IDI2 antisense gene protein 1)	IDI2-AS1 C10orf110 HT009	Homo sapiens (Human)	188
+AKR1C8P	A0A3B3IRI8	A0A3B3IRI8_HUMAN	unreviewed	Putative aldo-keto reductase family 1 member C8	AKR1C8P	Homo sapiens (Human)	326
+AKR1C8P	Q5T2L2	AKCL1_HUMAN	reviewed	Putative aldo-keto reductase family 1 member C8 (Aldo-keto reductase family 1 member C-like protein 1) (EC 1.1.1.-)	AKR1C8P AKR1CL1	Homo sapiens (Human)	129
+LINC01553	A4QN01	CJ040_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01553	LINC01553 C10orf40	Homo sapiens (Human)	128
+DNAJC9-AS1	A6NH13	DAS1_HUMAN	reviewed	Putative uncharacterized protein DNAJC9-AS1 (DNAJC9 antisense RNA 1) (DNAJC9 antisense gene protein 1)	DNAJC9-AS1 C10orf103	Homo sapiens (Human)	148
+TLX1NB	P0CAT3	TLXNB_HUMAN	reviewed	Putative TLX1 neighbor protein (TLX1 divergent gene protein)	TLX1NB TDI	Homo sapiens (Human)	122
+BORCS7-ASMT	A0A0B4J1R7	A0A0B4J1R7_HUMAN	unreviewed	BORCS7-ASMT readthrough (NMD candidate)	BORCS7-ASMT	Homo sapiens (Human)	106
+LINC01561	Q8N1V8	CJ085_HUMAN	reviewed	Uncharacterized protein encoded by LINC01561	LINC01561 C10orf85	Homo sapiens (Human)	128
+IGF2-AS	Q6U949	IG2AS_HUMAN	reviewed	Putative insulin-like growth factor 2 antisense gene protein (IGF2 antisense RNA 1) (IGF2 antisense gene protein 1) (PEG8/IGF2AS protein) (Putative insulin-like growth factor 2 antisense gene protein 1) (IGF2-AS1)	IGF2-AS IGF2-AS1 IGF2AS	Homo sapiens (Human)	168
+MRGPRG-AS1	Q2M3A8	MRAS1_HUMAN	reviewed	Putative uncharacterized protein MRGPRG-AS1 (MRGPRG antisense RNA 1) (MRGPRG antisense gene protein 1)	MRGPRG-AS1 C11orf36 HSD-40 HSD40	Homo sapiens (Human)	158
+GVINP1	Q7Z2Y8	GVIN1_HUMAN	reviewed	Interferon-induced very large GTPase 1 (Interferon-induced very large GTPase pseudogene 1)	GVINP1 GVIN1 VLIG1	Homo sapiens (Human)	2422
+SPTY2D1-AS1	A0A0U1RRN3	SPTOS_HUMAN	reviewed	Putative transmembrane protein SPTY2D1OS (SPTY2D1 antisense RNA 1) (SPTY2D1 opposite strand)	SPTY2D1OS SPTY2D1-AS1	Homo sapiens (Human)	59
+WT1-AS	Q06250	WIT1_HUMAN	reviewed	Putative Wilms tumor upstream neighbor 1 gene protein (WIT-1) (Wilms tumor-associated antisense RNA)	WT1-AS WIT1	Homo sapiens (Human)	92
+TMX2-CTNND1	H3BSU7	H3BSU7_HUMAN	unreviewed	TMX2-CTNND1 readthrough (NMD candidate)	TMX2-CTNND1	Homo sapiens (Human)	103
+ZFP91-CNTF	A0A0A6YYC7	A0A0A6YYC7_HUMAN	unreviewed	HCG2042749, isoform CRA_d (Protein ZFP91-CNTF)	ZFP91-CNTF hCG_2042749	Homo sapiens (Human)	529
+ZFP91-CNTF	H3BTR0	H3BTR0_HUMAN	unreviewed	ZFP91-CNTF readthrough (NMD candidate) (Fragment)	ZFP91-CNTF	Homo sapiens (Human)	354
+LINC00301	Q8NCQ3	NC301_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00301	LINC00301 C11orf64 NCRNA00301	Homo sapiens (Human)	95
+DKFZP434K028	Q9UFL8	Q9UFL8_HUMAN	unreviewed	HCG2017874	DKFZp434K028 hCG_2017874	Homo sapiens (Human)	129
+ARL2-SNX15	V9GYD0	V9GYD0_HUMAN	unreviewed	ARL2-SNX15 readthrough (NMD candidate)	ARL2-SNX15	Homo sapiens (Human)	113
+C11orf72	Q8NBR9	CK072_HUMAN	reviewed	Uncharacterized protein C11orf72	C11orf72	Homo sapiens (Human)	251
+LOC100132686	Q8NEQ1	Q8NEQ1_HUMAN	unreviewed	LOC100132686 protein	LOC100132686	Homo sapiens (Human)	37
+TMPRSS4-AS1	A0A1B0GVV1	SIM35_HUMAN	reviewed	Small integral membrane protein 35 (TMPRSS4 antisense RNA 1)	SMIM35 TMPRSS4-AS1	Homo sapiens (Human)	85
+KIRREL3-AS3	Q8N7Y1	KIAS3_HUMAN	reviewed	Putative uncharacterized protein KIRREL3-AS3 (KIRREL3 antisense RNA 1) (KIRREL3 antisense gene protein 1) (Proline-rich protein 10)	KIRREL3-AS3 NCRNA00288 PRR10	Homo sapiens (Human)	241
+LOC100049716	Q8N503	Q8N503_HUMAN	unreviewed	LOC100049716 protein (Fragment)	LOC100049716	Homo sapiens (Human)	292
+LINC01559	Q495D7	CL036_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01559	LINC01559 C12orf36	Homo sapiens (Human)	138
+LINC00477	Q96M19	CL067_HUMAN	reviewed	Putative transmembrane protein encoded by LINC00477	LINC00477 C12orf67	Homo sapiens (Human)	166
+KRT87P	A6NCN2	KR87P_HUMAN	reviewed	Putative keratin-87 protein (Keratin, hair, basic pseudogene 4) (Keratin-121 pseudogene)	KRT87P KRT121P KRTHBP4	Homo sapiens (Human)	255
+GLYCAM1	Q8IVK1	GLCM1_HUMAN	reviewed	Putative glycosylation-dependent cell adhesion molecule 1 (GlyCAM-1)	GLYCAM1	Homo sapiens (Human)	47
+LINC01465	Q8N7H1	CL061_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01465	LINC01465 C12orf61	Homo sapiens (Human)	131
+MKRN9P	Q6NVV0	MKRN5_HUMAN	reviewed	Putative makorin-5 (Makorin ring finger protein pseudogene 6) (Makorin ring finger protein pseudogene 9) (Putative RING finger protein 65)	MKRN9P MKRN5 MKRN9 MKRNP6 RNF65 ZNF127L3	Homo sapiens (Human)	33
+LINC01619	G3V211	CL079_HUMAN	reviewed	Uncharacterized protein encoded by LINC01619	LINC01619 C12orf79	Homo sapiens (Human)	115
+TTC41P	Q6P2S7	TTC41_HUMAN	reviewed	Putative tetratricopeptide repeat protein 41 (TPR repeat protein 41) (Grp94-neighboring nucleotidase)	TTC41P GNN	Homo sapiens (Human)	1318
+LOC100287944	L8ECQ4	L8ECQ4_HUMAN	unreviewed	Alternative protein LOC100287944	LOC100287944	Homo sapiens (Human)	45
+MAPKAPK5-AS1	Q8N8E1	MAAS1_HUMAN	reviewed	Putative uncharacterized protein encoded by MAPKAPK5-AS1 (MAPKAPK5 antisense RNA 1) (MAPKAPK5 antisense gene protein 1)	MAPKAPK5-AS1 C12orf47	Homo sapiens (Human)	139
+SPG20-AS1	P0CW21	SPGOS_HUMAN	reviewed	Putative uncharacterized protein SPART-AS1 (SPART antisense RNA 1) (SPG20 antisense RNA 1) (SPG20 opposite strand transcript protein)	SPART-AS1 C13orf43 SPG20-AS1 SPG20OS	Homo sapiens (Human)	52
+DLEU1	O43261	LEU1_HUMAN	reviewed	Leukemia-associated protein 1 (Deleted in lymphocytic leukemia 1) (HBV X-transactivated gene 6 protein) (HBV XAg-transactivated protein 6)	DLEU1 LEU1 XTP6	Homo sapiens (Human)	78
+DLEU1	Q6ICR8	Q6ICR8_HUMAN	unreviewed	DLEU1 protein (cDNA, FLJ92453, Homo sapiens deleted in lymphocytic leukemia, 1 (DLEU1), mRNA) (Fragment)	DLEU1	Homo sapiens (Human)	72
+ATXN8OS	P0DMR3	AT8OS_HUMAN	reviewed	Putative protein ATXN8OS (ATXN8 opposite strand) (Spinocerebellar ataxia 8) (kelch-like 1 antisense)	ATXN8OS KLHL1AS SCA8	Homo sapiens (Human)	200
+MIR17HG	Q75NE6	MIRH1_HUMAN	reviewed	Putative microRNA 17 host gene protein (Putative microRNA host gene 1 protein)	MIR17HG C13orf25 MIRH1 MIRHG1	Homo sapiens (Human)	70
+METTL21EP	A6NDL7	MT21E_HUMAN	reviewed	Putative methyltransferase-like protein 21E pseudogene (EC 2.1.1.-)	METTL21EP METTL21CP1	Homo sapiens (Human)	271
+LINC00346	Q8IVM7	CM029_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00346	LINC00346 C13orf29	Homo sapiens (Human)	164
+LINC01551	Q86U37	CN023_HUMAN	reviewed	Uncharacterized protein encoded by LINC01551	LINC01551 C14orf23	Homo sapiens (Human)	167
+LINC01599	Q8WXQ3	CN183_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01599	LINC01599 C14orf183	Homo sapiens (Human)	324
+FRMD6-AS1	P0C7T7	FMAS1_HUMAN	reviewed	Putative uncharacterized protein FRMD6-AS1 (FRMD6 antisense RNA 1) (FRMD6 antisense gene protein 1)	FRMD6-AS1 C14orf82	Homo sapiens (Human)	363
+LRRC9	A0A2R8Y4H4	A0A2R8Y4H4_HUMAN	unreviewed	Leucine-rich repeat-containing protein 9	LRRC9	Homo sapiens (Human)	1494
+LRRC9	A0A2R8YDI6	A0A2R8YDI6_HUMAN	unreviewed	Leucine-rich repeat-containing protein 9 (Fragment)	LRRC9	Homo sapiens (Human)	96
+LRRC9	H3BUB1	H3BUB1_HUMAN	unreviewed	Leucine-rich repeat-containing protein 9 (Fragment)	LRRC9	Homo sapiens (Human)	112
+LRRC9	H3BUS4	H3BUS4_HUMAN	unreviewed	Leucine-rich repeat-containing protein 9 (Fragment)	LRRC9	Homo sapiens (Human)	114
+LRRC9	Q6ZRR7	LRRC9_HUMAN	reviewed	Leucine-rich repeat-containing protein 9	LRRC9	Homo sapiens (Human)	1453
+LINC00643	Q86TS7	U730_HUMAN	reviewed	Putative UPF0730 protein encoded by LINC00643 (Long intergenic non-protein coding RNA 643)	LINC00643	Homo sapiens (Human)	51
+SERPINA13P	Q6UXR4	SPA13_HUMAN	reviewed	Putative serpin A13	SERPINA13P SERPINA13 UNQ6121/PRO20043	Homo sapiens (Human)	307
+TCL6	A0A024R6G0	A0A024R6G0_HUMAN	unreviewed	T-cell leukemia/lymphoma 6, isoform CRA_b	TCL6 hCG_22871	Homo sapiens (Human)	141
+TCL6	A0A024R6J2	A0A024R6J2_HUMAN	unreviewed	T-cell leukemia/lymphoma 6, isoform CRA_d	TCL6 hCG_22871	Homo sapiens (Human)	163
+TCL6	A0A024R6J5	A0A024R6J5_HUMAN	unreviewed	T-cell leukemia/lymphoma 6, isoform CRA_a	TCL6 hCG_22871	Homo sapiens (Human)	119
+TCL6	A0A024R6L9	A0A024R6L9_HUMAN	unreviewed	T-cell leukemia/lymphoma 6, isoform CRA_c	TCL6 hCG_22871	Homo sapiens (Human)	103
+TUNAR	A0A1B0GTB2	A0A1B0GTB2_HUMAN	unreviewed	HCG2038094, isoform CRA_a (TCL1 upstream neural differentiation-associated RNA)	TUNAR hCG_2038094	Homo sapiens (Human)	48
+LINC00523	Q86TU6	CN070_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00523	LINC00523 C14orf70	Homo sapiens (Human)	105
+TMCO5B	A8MYB1	TMC5B_HUMAN	reviewed	Transmembrane and coiled-coil domain-containing protein 5B	TMCO5B	Homo sapiens (Human)	307
+C15orf54	Q8N8G6	CO054_HUMAN	reviewed	Putative uncharacterized protein C15orf54	C15orf54	Homo sapiens (Human)	183
+HSP90AB4P	Q58FF6	H90B4_HUMAN	reviewed	Putative heat shock protein HSP 90-beta 4	HSP90AB4P	Homo sapiens (Human)	505
+HEXA-AS1	Q9H8Q6	HEAS1_HUMAN	reviewed	Putative uncharacterized protein encoded by HEXA-AS1 (HEXA antisense RNA 1) (HEXA antisense gene protein 1)	HEXA-AS1 C15orf34	Homo sapiens (Human)	139
+LINC00597	Q9H2U6	CO005_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00597	LINC00597 C15orf5	Homo sapiens (Human)	94
+ST20-AS1	Q8NBB2	STAS1_HUMAN	reviewed	Putative uncharacterized protein ST20-AS1 (ST20 antisense RNA 1) (ST20 antisense gene protein 1)	ST20-AS1 C15orf37	Homo sapiens (Human)	130
+SCAND2P	Q9GZW5	SCND2_HUMAN	reviewed	Putative SCAN domain-containing protein SCAND2P (SCAN domain-containing protein 2 pseudogene)	SCAND2P SCAND2	Homo sapiens (Human)	306
+LINC00052	Q96N35	TMM83_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00052 (Putative transmembrane protein 83)	LINC00052 NCRNA00052 TMEM83	Homo sapiens (Human)	136
+TTLL13P	A0A1W2PP44	A0A1W2PP44_HUMAN	unreviewed	Tubulin polyglutamylase TTLL13P	TTLL13P	Homo sapiens (Human)	143
+TTLL13P	A0A1W2PRM3	A0A1W2PRM3_HUMAN	unreviewed	Tubulin polyglutamylase TTLL13P	TTLL13P	Homo sapiens (Human)	636
+TTLL13P	A0A286YFC2	A0A286YFC2_HUMAN	unreviewed	Tubulin polyglutamylase TTLL13P	TTLL13P	Homo sapiens (Human)	751
+TTLL13P	A6NNM8	TTL13_HUMAN	reviewed	Tubulin polyglutamylase TTLL13P (EC 6.-.-.-) (Tubulin tyrosine ligase-like family member 13 pseudogene) (Tubulin--tyrosine ligase-like protein 13)	TTLL13P TTLL13	Homo sapiens (Human)	815
+HSP90B2P	Q58FF3	ENPLL_HUMAN	reviewed	Putative endoplasmin-like protein (Putative heat shock protein 90 kDa beta member 2)	HSP90B2P GRP94B GRP94P1 TRAP1	Homo sapiens (Human)	399
+LINC00514	A0A0J9YXV3	A0A0J9YXV3_HUMAN	unreviewed	Long intergenic non-protein coding RNA 514	LINC00514	Homo sapiens (Human)	536
+OR1F2P	Q96R84	OR1F2_HUMAN	reviewed	Putative olfactory receptor 1F2 (OLFmf2)	OR1F2P OR1F2	Homo sapiens (Human)	312
+BCAR4	D3DUG6	D3DUG6_HUMAN	unreviewed	Breast cancer antiestrogen resistance 4 protein (HCG1814062, isoform CRA_a)	BCAR4 hCG_1814062	Homo sapiens (Human)	121
+CRYM-AS1	A6NIL9	CRAS1_HUMAN	reviewed	Putative uncharacterized protein CRYM-AS1 (CRYM antisense RNA 1) (CRYM antisense gene protein 1)	CRYM-AS1 NCRNA00169	Homo sapiens (Human)	109
+FBXL19-AS1	Q494R0	FBAS1_HUMAN	reviewed	Putative uncharacterized protein FBXL19-AS1 (FBXL19 antisense RNA 1) (FBXL19 antisense gene protein 1)	FBXL19-AS1 NCRNA00095	Homo sapiens (Human)	122
+CLUHP3	Q96NS8	CLUP3_HUMAN	reviewed	Putative protein CLUHP3 (Clustered mitochondria (cluA/CLU1) homolog pseudogene 3) (KIAA0664-like protein 3)	CLUHP3 C16orf67 KIAA0664L3	Homo sapiens (Human)	147
+ANKRD26P1	Q6NSI1	AR26L_HUMAN	reviewed	Putative ankyrin repeat domain-containing protein 26-like protein	ANKRD26P1	Homo sapiens (Human)	321
+MT1DP	A1L3X4	MT1DP_HUMAN	reviewed	Putative metallothionein MT1DP	MT1DP MTM	Homo sapiens (Human)	49
+LINC00311	Q8N616	TM148_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00311	LINC00311 NCRNA00311 TMEM148	Homo sapiens (Human)	119
+LINC00304	Q8N9R0	CP081_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00304	LINC00304 C16orf81 NCRNA00304	Homo sapiens (Human)	145
+GAS8-AS1	O95177	GAAS1_HUMAN	reviewed	Uncharacterized protein GAS8-AS1 (GAS8 antisense RNA 1) (GAS8 antisense gene protein 1)	GAS8-AS1 C16orf3	Homo sapiens (Human)	125
+MIR22HG	Q0VDD5	CQ091_HUMAN	reviewed	Putative uncharacterized protein encoded by MIR22HG	MIR22HG C17orf91	Homo sapiens (Human)	57
+LOC284009	Q4G0H6	Q4G0H6_HUMAN	unreviewed	Uncharacterized protein	LOC284009	Homo sapiens (Human)	157
+RNASEK-C17orf49	H0YIS7	H0YIS7_HUMAN	unreviewed	RNASEK-C17orf49 readthrough (Fragment)	RNASEK-C17orf49	Homo sapiens (Human)	233
+TMEM256-PLSCR3	K7ENI6	K7ENI6_HUMAN	unreviewed	TMEM256-PLSCR3 readthrough (NMD candidate)	TMEM256-PLSCR3	Homo sapiens (Human)	41
+TMEM256-PLSCR3	K7ERE1	K7ERE1_HUMAN	unreviewed	TMEM256-PLSCR3 readthrough (NMD candidate)	TMEM256-PLSCR3	Homo sapiens (Human)	68
+TMEM256-PLSCR3	K7ESI7	K7ESI7_HUMAN	unreviewed	TMEM256-PLSCR3 readthrough (NMD candidate) (Fragment)	TMEM256-PLSCR3	Homo sapiens (Human)	28
+SENP3-EIF4A1	A0A087X0R7	A0A087X0R7_HUMAN	unreviewed	SENP3-EIF4A1 readthrough (NMD candidate) (Fragment)	SENP3-EIF4A1	Homo sapiens (Human)	540
+SMCR5	Q8TEV8	SMCR5_HUMAN	reviewed	Smith-Magenis syndrome chromosomal region candidate gene 5 protein	SMCR5	Homo sapiens (Human)	140
+PYY2	Q9NRI6	PYY2_HUMAN	reviewed	Putative peptide YY-2 (Putative peptide YY2)	PYY2	Homo sapiens (Human)	33
+CCL15-CCL14	A0A0B4J2E2	A0A0B4J2E2_HUMAN	unreviewed	C-C motif chemokine	CCL15-CCL14	Homo sapiens (Human)	113
+LINC00672	A0A1B0GWH6	A0A1B0GWH6_HUMAN	unreviewed	Long intergenic non-protein coding RNA 672	LINC00672	Homo sapiens (Human)	25
+ASB16-AS1	Q495Z4	ASAS1_HUMAN	reviewed	Putative uncharacterized protein ASB16-AS1 (ASB16 antisense RNA 1) (ASB16 antisense gene protein 1)	ASB16-AS1 C17orf65	Homo sapiens (Human)	193
+FLJ40194	Q8N7Z3	Q8N7Z3_HUMAN	unreviewed	FLJ40194 protein (cDNA FLJ40194 fis, clone TESTI2019481)	FLJ40194 hCG_2001617	Homo sapiens (Human)	131
+LOC100288866	L0R501	L0R501_HUMAN	unreviewed	Alternative protein LOC100288866	LOC100288866	Homo sapiens (Human)	101
+HILS1	P60008	HILS1_HUMAN	reviewed	Spermatid-specific linker histone H1-like protein	HILS1	Homo sapiens (Human)	231
+LOC100294362	Q8WYU1	Q8WYU1_HUMAN	unreviewed	Alternative protein LOC100294362	pp7201 LOC100294362	Homo sapiens (Human)	165
+LINC00482	Q8N8I6	CQ055_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00482	LINC00482 C17orf55	Homo sapiens (Human)	264
+LINC00470	Q9BZP3	CR002_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00470	LINC00470 C18orf2	Homo sapiens (Human)	86
+LINC00526	Q96FQ7	CR018_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00526	LINC00526 C18orf18	Homo sapiens (Human)	95
+LINC01387	J3KSC0	CR064_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC01387	LINC01387 C18orf64	Homo sapiens (Human)	135
+C18orf15	Q96N68	CR015_HUMAN	reviewed	Putative uncharacterized protein C18orf15	C18orf15	Homo sapiens (Human)	181
+CIRBP-AS1	Q8TBR5	CSAS1_HUMAN	reviewed	Putative uncharacterized protein CIRBP-AS1 (CIRBP antisense RNA 1) (CIRBP antisense gene protein 1)	CIRBP-AS1 C19orf23	Homo sapiens (Human)	109
+CACTIN-AS1	Q8N1I8	CAAS1_HUMAN	reviewed	Putative uncharacterized protein encoded by CACTIN-AS1 (Cactin antisense RNA 1)	CACTIN-AS1 C19orf29-AS1 C19orf29OS	Homo sapiens (Human)	211
+TINCR	A0A1B0GTR7	A0A1B0GTR7_HUMAN	unreviewed	TINCR ubiquitin domain-containing (Fragment)	TINCR	Homo sapiens (Human)	56
+TINCR	A0A1B0GVN0	A0A1B0GVN0_HUMAN	unreviewed	TINCR ubiquitin domain-containing	TINCR	Homo sapiens (Human)	87
+TINCR	A0A2R8Y7D0	A0A2R8Y7D0_HUMAN	unreviewed	TINCR ubiquitin domain-containing	TINCR	Homo sapiens (Human)	120
+C3P1	Q6ZMU1	C3P1_HUMAN	reviewed	Putative protein C3P1	C3P1	Homo sapiens (Human)	363
+ZNF625-ZNF20	F2Z3I2	F2Z3I2_HUMAN	unreviewed	ZNF625-ZNF20 readthrough (NMD candidate) (Zinc finger protein 625)	ZNF625-ZNF20 ZNF625	Homo sapiens (Human)	61
+ZNF625-ZNF20	F8WDT6	F8WDT6_HUMAN	unreviewed	ZNF625-ZNF20 readthrough (NMD candidate)	ZNF625-ZNF20	Homo sapiens (Human)	125
+ZNF738	E9PE46	E9PE46_HUMAN	unreviewed	Protein ZNF738	ZNF738	Homo sapiens (Human)	117
+ZNF738	M0R024	M0R024_HUMAN	unreviewed	Protein ZNF738	ZNF738	Homo sapiens (Human)	68
+ZNF738	M0R0N2	M0R0N2_HUMAN	unreviewed	Protein ZNF738	ZNF738	Homo sapiens (Human)	129
+ZNF738	M0R3I0	M0R3I0_HUMAN	unreviewed	Protein ZNF738	ZNF738	Homo sapiens (Human)	44
+ZNF738	Q8NE65	ZN738_HUMAN	reviewed	Protein ZNF738	ZNF738	Homo sapiens (Human)	137
+ZNF724	A0A087WUU8	A0A087WUU8_HUMAN	unreviewed	Zinc finger protein 724 (Fragment)	ZNF724	Homo sapiens (Human)	490
+ZNF724	A8MTY0	ZN724_HUMAN	reviewed	Zinc finger protein 724	ZNF724 ZNF724P	Homo sapiens (Human)	619
+ZNF724	M0R0Z7	M0R0Z7_HUMAN	unreviewed	Zinc finger protein 724	ZNF724	Homo sapiens (Human)	77
+ZNF724	M0R3J2	M0R3J2_HUMAN	unreviewed	Zinc finger protein 724 (Fragment)	ZNF724	Homo sapiens (Human)	99
+LOC400684	Q9BVU7	Q9BVU7_HUMAN	unreviewed	LOC400684 protein (Fragment)	LOC400684	Homo sapiens (Human)	24
+LGALS17A	Q6ZW74	Q6ZW74_HUMAN	unreviewed	Galectin	LGALS17A	Homo sapiens (Human)	151
+APOC4-APOC2	K7ER74	K7ER74_HUMAN	unreviewed	APOC4-APOC2 readthrough (NMD candidate)	APOC4-APOC2	Homo sapiens (Human)	178
+KLKP1	Q107X0	KRIP1_HUMAN	reviewed	Putative protein KRIP1 (Kallikrein-related in prostate protein 1) (Kallikrein-related mRNA protein) (KARMA)	KLKP1 KLK31P	Homo sapiens (Human)	134
+ZNF137P	P52743	ZN137_HUMAN	reviewed	Putative zinc finger protein 137 (Zinc finger protein 137 pseudogene)	ZNF137P ZNF137	Homo sapiens (Human)	207
+ZNF702P	Q9H963	ZN702_HUMAN	reviewed	Putative zinc finger protein 702	ZNF702P ZNF702	Homo sapiens (Human)	129
+ZNF818P	Q6ZRF7	ZN818_HUMAN	reviewed	Putative zinc finger protein 818	ZNF818P ZNF818	Homo sapiens (Human)	136
+KIR3DX1	A0A087WZE3	A0A087WZE3_HUMAN	unreviewed	Putative killer cell immunoglobulin-like receptor-like protein KIR3DX1	KIR3DX1	Homo sapiens (Human)	365
+KIR3DX1	A0A0G2JQ57	A0A0G2JQ57_HUMAN	unreviewed	Putative killer cell immunoglobulin-like receptor-like protein KIR3DX1 (Fragment)	KIR3DX1	Homo sapiens (Human)	120
+KIR3DX1	F2Z2P8	F2Z2P8_HUMAN	unreviewed	Putative killer cell immunoglobulin-like receptor-like protein KIR3DX1	KIR3DX1	Homo sapiens (Human)	133
+KIR3DX1	F8WDC3	F8WDC3_HUMAN	unreviewed	Putative killer cell immunoglobulin-like receptor-like protein KIR3DX1	KIR3DX1	Homo sapiens (Human)	139
+KIR3DX1	Q9H7L2	KI3X1_HUMAN	reviewed	Putative killer cell immunoglobulin-like receptor-like protein KIR3DX1 (Leukocyte receptor cluster member 12)	KIR3DX1 KIR3DL0 LENG12	Homo sapiens (Human)	352
+ZNF542P	Q5EBM4	ZN542_HUMAN	reviewed	Putative zinc finger protein 542 (Zinc finger protein 542 pseudogene)	ZNF542P ZNF542	Homo sapiens (Human)	170
+ERVK3-1	A0A0U1RQL9	A0A0U1RQL9_HUMAN	unreviewed	Endogenous retrovirus group K3 member 1 (Fragment)	ERVK3-1	Homo sapiens (Human)	79
+ERVK3-1	A0A0U1RQN3	A0A0U1RQN3_HUMAN	unreviewed	Endogenous retrovirus group K3 member 1 (Fragment)	ERVK3-1	Homo sapiens (Human)	85
+ERVK3-1	A0A0U1RQS5	A0A0U1RQS5_HUMAN	unreviewed	Endogenous retrovirus group K3 member 1 (Fragment)	ERVK3-1	Homo sapiens (Human)	98
+ERVK3-1	A0A0U1RQV1	A0A0U1RQV1_HUMAN	unreviewed	Endogenous retrovirus group K3 member 1 (Fragment)	ERVK3-1	Homo sapiens (Human)	116
+ERVK3-1	B3KNS4	B3KNS4_HUMAN	unreviewed	Endogenous retrovirus group K3 member 1 (HCG2043597, isoform CRA_a) (cDNA FLJ30306 fis, clone BRACE2003319)	ERVK3-1 hCG_2043597	Homo sapiens (Human)	109
+ERVK3-1	Q96A10	Q96A10_HUMAN	unreviewed	Endogenous retrovirus group K3 member 1 (HCG2043597, isoform CRA_b) (LOC113386 protein)	ERVK3-1 hCG_2043597	Homo sapiens (Human)	74
+PRNT	Q86SH4	PRNT_HUMAN	reviewed	Putative testis-specific prion protein (Protein M8)	PRNT	Homo sapiens (Human)	94
+TSPY26P	Q9H489	TSY26_HUMAN	reviewed	Putative testis-specific Y-encoded-like protein 3 (TSPY-like protein 3) (Testis-specific Y-encoded protein 26 pseudogene)	TSPY26P TSPYL3	Homo sapiens (Human)	355
+BPIFA4P	Q86YQ2	LATH_HUMAN	reviewed	Putative BPIFA4P protein (BPI fold containing family A, member 4, pseudogene) (Breast cancer and salivary gland-expressed protein) (Putative latherin)	BPIFA4P BASE LATH	Homo sapiens (Human)	179
+MMP24-AS1	A0A0U1RRL7	MMPOS_HUMAN	reviewed	Protein MMP24OS (MMP24 opposite strand)	MMP24OS MMP24-AS1	Homo sapiens (Human)	71
+FER1L4	A9Z1Z3	FR1L4_HUMAN	reviewed	Fer-1-like protein 4	FER1L4 C20orf124	Homo sapiens (Human)	1794
+FER1L4	Q2NNQ8	Q2NNQ8_HUMAN	unreviewed	FER-1-like protein 4	FER1L4	Homo sapiens (Human)	2055
+SUMO1P1	G2XKQ0	SUMO5_HUMAN	reviewed	Small ubiquitin-related modifier 5 (SUMO-5) (SUMO1 pseudogene 1) (Ubiquitin-like 2) (Ubiquitin-like 6)	SUMO1P1 SUMO5 UBL2 UBL6	Homo sapiens (Human)	101
+PPP4R1L	Q9P1A2	PP4RL_HUMAN	reviewed	Putative serine/threonine-protein phosphatase 4 regulatory subunit 1-like	PPP4R1L C20orf192 PRO1085	Homo sapiens (Human)	415
+STX16-NPEPL1	H3BU86	H3BU86_HUMAN	unreviewed	STX16-NPEPL1 readthrough (NMD candidate)	STX16-NPEPL1	Homo sapiens (Human)	382
+RTEL1-TNFRSF6B	D6RA96	D6RA96_HUMAN	unreviewed	Regulator of telomere elongation helicase 1 (EC 3.6.4.12)	RTEL1-TNFRSF6B RTEL1	Homo sapiens (Human)	785
+LINC00158	P58513	CU042_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00158	LINC00158 C21orf42 NCRNA00158	Homo sapiens (Human)	81
+URB1-AS1	Q96HZ7	URAS1_HUMAN	reviewed	Putative uncharacterized protein URB1-AS1 (URB1 antisense RNA 1) (URB1 antisense gene protein 1)	URB1-AS1 C21orf119 PRED84	Homo sapiens (Human)	61
+C21orf62-AS1	Q17RA5	CMAS1_HUMAN	reviewed	Putative uncharacterized protein C21orf62-AS1 (C21orf62 antisense RNA 1) (C21orf62 antisense gene protein 1)	C21orf62-AS1 C21orf49	Homo sapiens (Human)	79
+LINC00310	P59036	CU082_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00310	LINC00310 C21orf82 NCRNA00310	Homo sapiens (Human)	64
+DSCR9	P59020	DSCR9_HUMAN	reviewed	Down syndrome critical region protein 9	DSCR9	Homo sapiens (Human)	149
+DSCR4	P56555	DSCR4_HUMAN	reviewed	Down syndrome critical region protein 4 (Down syndrome critical region protein B)	DSCR4 DCRB DSCRB	Homo sapiens (Human)	118
+LINC00114	Q6XXX2	CU024_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00114	LINC00114 C21orf24 NCRNA00114	Homo sapiens (Human)	140
+BRWD1-IT2	P59051	BRAS2_HUMAN	reviewed	Putative uncharacterized protein encoded by BRWD1-AS2 (ATP1A1 antisense RNA 1) (ATP1A1 antisense gene protein 1) (BRWD1 intronic transcript 2)	BRWD1-AS2 BRWD1-IT2 C21orf87 NCRNA00257	Homo sapiens (Human)	145
+B3GALT5-AS1	P59052	B3AS1_HUMAN	reviewed	Putative uncharacterized protein B3GALT5-AS1 (B3GALT5 antisense RNA 1) (B3GALT5 antisense gene protein 1)	B3GALT5-AS1 C21orf88	Homo sapiens (Human)	145
+LINC00479	Q96M42	CU129_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00479	LINC00479 C21orf129 PRED76	Homo sapiens (Human)	142
+ZNF295-AS1	Q8N0V1	ZNAS1_HUMAN	reviewed	Putative uncharacterized protein ZNF295-AS1 (ZNF295 antisense RNA 1) (ZNF295 antisense gene protein 1)	ZNF295-AS1 C21orf121 NCRNA00318 PRED87	Homo sapiens (Human)	137
+UMODL1-AS1	Q8N2C9	UMAS1_HUMAN	reviewed	Uncharacterized protein UMODL1-AS1 (UMODL1 antisense RNA 1) (UMODL1 antisense gene protein 1)	UMODL1-AS1 C21orf128	Homo sapiens (Human)	162
+LINC00322	Q6ZN03	CU136_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00322	LINC00322 C21orf136 NCRNA00322	Homo sapiens (Human)	302
+TSPEAR-AS2	P59090	TSAS2_HUMAN	reviewed	Putative uncharacterized protein TSPEAR-AS2 (TSPEAR antisense RNA 2) (TSPEAR antisense gene protein 2)	TSPEAR-AS2 C21orf90	Homo sapiens (Human)	65
+LINC01547	P58512	CU067_HUMAN	reviewed	Uncharacterized protein encoded by LINC01547	LINC01547 C21orf67 C21orf69	Homo sapiens (Human)	204
+LINC00528	Q8N1L1	CV037_HUMAN	reviewed	Putative uncharacterized protein encoded by LINC00528	LINC00528 C22orf37	Homo sapiens (Human)	170
+GUSBP11	Q6P575	BGP11_HUMAN	reviewed	Putative inactive beta-glucuronidase protein GUSBP11 (Beta-glucuronidase pseudogene 11)	GUSBP11	Homo sapiens (Human)	273
+ADORA2A-AS1	P86434	AAS1_HUMAN	reviewed	Putative uncharacterized protein ADORA2A-AS1 (ADORA2A antisense RNA 1) (ADORA2A antisense gene protein 1)	ADORA2A-AS1 C22orf45	Homo sapiens (Human)	159
+SPECC1L-ADORA2A	F8WAN1	F8WAN1_HUMAN	unreviewed	SPECC1L-ADORA2A readthrough (NMD candidate)	SPECC1L-ADORA2A	Homo sapiens (Human)	911
+KIAA1656	Q569K6	CC157_HUMAN	reviewed	Coiled-coil domain-containing protein 157	CCDC157 KIAA1656	Homo sapiens (Human)	752
+LINC00634	A0A590UK49	A0A590UK49_HUMAN	unreviewed	Long intergenic non-protein coding RNA 634	LINC00634	Homo sapiens (Human)	68
+LINC00634	A0A590UK83	A0A590UK83_HUMAN	unreviewed	Long intergenic non-protein coding RNA 634	LINC00634	Homo sapiens (Human)	107
